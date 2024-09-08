@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on and learning Data Science and MySQL.<br>I can help personally or collaborate on projects that realated to Data Manipulation, Desktop Applications, Image Processing and more with Python of course.<br>Let me know if you need any help ♠. 
+I'm currently working on and learning Data Science and SQL.<br>I can help personally or collaborate on projects that realated to Data Manipulation, Desktop Applications, Image Processing and more with Python of course.<br>Let me know if you need any help ♠. 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mf.erdogmus) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammederdogmus/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19601756) 
